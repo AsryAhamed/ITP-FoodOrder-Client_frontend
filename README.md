@@ -39,8 +39,8 @@ The project's folder structure is organized as follows:
 **Future Enhancements**
 We have exciting plans for future enhancements, including:
 
-  Implementation of a customer rating and review system for products.
-  Integration with additional payment gateways for more payment options.
-  Implementation of a product recommendation engine based on user preferences and browsing history.
-  Integration with social media platforms for sharing and promotion.
+  1. Implementation of a customer rating and review system for products.
+  2. Integration with additional payment gateways for more payment options.
+  3. Implementation of a product recommendation engine based on user preferences and browsing history.
+  4. Integration with social media platforms for sharing and promotion.
 
