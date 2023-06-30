@@ -1,7 +1,7 @@
 # Food Train - Online Food Ordering Client Website
 Food is an online food ordering platform that offers a wide range of cuisine for customers to browse, purchase, and enjoy. It provides a user-friendly interface and a seamless shopping experience.
 
-**Installation**
+## Installation 
 To run Food Train client-side website locally, follow these steps:
 
   1. Clone the repository: git clone https://github.com/Aaathif/ITP-FoodOrder-Client_frontend.git
@@ -10,7 +10,7 @@ To run Food Train client-side website locally, follow these steps:
   4. Start the server: yarn start
   5. Access Food Train in your browser at http://localhost:3000
 
-**Usage**
+## Usage
 Once you have Food Train up and running, you can perform the following actions:
 
   1. Easily add products to your cart, update quantities as needed, and proceed to checkout effortlessly.
@@ -18,7 +18,7 @@ Once you have Food Train up and running, you can perform the following actions:
   3. Share valuable feedback to help us improve our services and cater to your needs better.
   4. Discover a wide range of related products to find exciting options and enhance your shopping experience.
 
-**Technologies Used**
+## Technologies Used
 Food Train is built using the following technologies and frameworks:
 
   1. Frontend: React.js, HTML, CSS
@@ -27,7 +27,7 @@ Food Train is built using the following technologies and frameworks:
   4. Authentication: JSON Web Tokens (JWT)
   5. Payment Processing: Stripe API
 
-**Folder Structure**
+## Folder Structure
 The project's folder structure is organized as follows:
 
 ├── src      
@@ -36,7 +36,7 @@ The project's folder structure is organized as follows:
     
 └── public             # Static files and assets
 
-**Future Enhancements**
+## Future Enhancements
 We have exciting plans for future enhancements, including:
 
   1. Implementation of a customer rating and review system for products.
