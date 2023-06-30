@@ -6,7 +6,7 @@ To run Food Train client-side website locally, follow these steps:
 
   1. Clone the repository: git clone https://github.com/Aaathif/ITP-FoodOrder-Client_frontend.git
   2. Install dependencies: yarn
-  3. Set up the database: [Provide instructions for setting up the required database]
+  3. Set up the database: 
   4. Start the server: yarn start
   5. Access Food Train in your browser at http://localhost:3000
 
@@ -22,7 +22,7 @@ Once you have Food Train up and running, you can perform the following actions:
 Food Train is built using the following technologies and frameworks:
 
   1. Frontend: React.js, HTML, CSS
-  2. Backend: Node.js, Express.js
+  2. Backend: Node.js, Express.js (https://github.com/Aaathif/ITP-FoodOrder-Backend.git)
   3. Database: MongoDB
   4. Authentication: JSON Web Tokens (JWT)
   5. Payment Processing: Stripe API
@@ -31,8 +31,8 @@ Food Train is built using the following technologies and frameworks:
 The project's folder structure is organized as follows:
 
 ├── src      
-    ├── componentts    # Frontend client side React components
-    └── screen         # Frontend client side pages 
+├   ├── componentts    # Frontend client side React components
+├   └── screen         # Frontend client side pages 
     
 └── public             # Static files and assets
 
