@@ -1,4 +1,4 @@
-# Food Train - Online Food Ordering Website
+# Food Train - Online Food Ordering Client Website
 Food is an online food ordering platform that offers a wide range of cuisine for customers to browse, purchase, and enjoy. It provides a user-friendly interface, secure payment options, and a seamless shopping experience.
 
 **Installation**
