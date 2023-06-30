@@ -27,6 +27,9 @@ Food Train is built using the following technologies and frameworks:
   4. Authentication: JSON Web Tokens (JWT)
   5. Payment Processing: Stripe API
 
+## UI Prototype
+Click [here](https://www.figma.com/proto/MKqFFd0kCgzLJpYV7APk3Y/ITP-Project-food-order?type=design&node-id=1-309&scaling=scale-down&page-id=0%3A1&starting-point-node-id=322%3A599&show-proto-sidebar=1&mode=design&t=XjGALSuOjavXpgfJ-1) to view the interactive UI prototype for this project.
+
 ## Folder Structure
 The project's folder structure is organized as follows:
 
