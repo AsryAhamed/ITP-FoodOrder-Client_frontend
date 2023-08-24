@@ -29,14 +29,6 @@ Food Train is built using the following technologies and frameworks:
 ## UI Prototype
 Click [here](https://www.figma.com/proto/MKqFFd0kCgzLJpYV7APk3Y/ITP-Project-food-order?type=design&node-id=1-72&t=HhuVNzmMzwTWCvaO-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=322%3A599&mode=design) to view the interactive UI prototype for this project.
 
-## Folder Structure
-The project's folder structure is organized as follows:
-
-├── src      
-├   ├── componentts    # Frontend client side React components
-├   └── screen         # Frontend client side pages 
-    
-└── public             # Static files and assets
 
 ## Future Enhancements
 We have exciting plans for future enhancements, including:
