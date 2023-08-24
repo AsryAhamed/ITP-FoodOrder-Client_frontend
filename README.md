@@ -24,7 +24,6 @@ Food Train is built using the following technologies and frameworks:
   1. Frontend: React.js, HTML, CSS
   2. Backend: Node.js, Express.js (https://github.com/Aaathif/ITP-FoodOrder-Backend.git)
   3. Database: MongoDB
-  4. Authentication: JSON Web Tokens (JWT)
   5. Payment Processing: Stripe API
 
 ## UI Prototype
