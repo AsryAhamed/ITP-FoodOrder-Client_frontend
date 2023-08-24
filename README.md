@@ -4,7 +4,7 @@ Food is an online food ordering platform that offers a wide range of cuisine for
 ## Installation 
 To run Food Train client-side website locally, follow these steps:
 
-  1. Clone the repository: git clone https://github.com/IT21158018/ITP-FoodOrder-Client_frontend.git
+  1. Clone the repository: git clone https://github.com/AsryAhamed/ITP-FoodOrder-Client_frontend.git
   2. Install dependencies: yarn
   3. Set up the database: 
   4. Start the server: yarn start
@@ -22,7 +22,7 @@ Once you have Food Train up and running, you can perform the following actions:
 Food Train is built using the following technologies and frameworks:
 
   1. Frontend: React.js, HTML, CSS
-  2. Backend: Node.js, Express.js (https://github.com/IT21158018/ITP-FoodOrder-Backend.git)
+  2. Backend: Node.js, Express.js (https://github.com/AsryAhamed/ITP-FoodOrder-Backend.git)
   3. Database: MongoDB
   5. Payment Processing: Stripe API
 
